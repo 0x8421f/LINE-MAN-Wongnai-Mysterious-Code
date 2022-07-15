@@ -21,4 +21,5 @@ func main() {
 	StringReverse := strings.Split(reverse(string(sd)), ":")
 	whatIsIt = strings.Join(StringReverse, " ")
 	fmt.Println(whatIsIt)
+	sdfsdfsdf
 }
